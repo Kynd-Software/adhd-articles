@@ -7,7 +7,6 @@
 2. [The Three Presentations of ADHD](./02-three-presentations-of-adhd.md)
 3. [ADHD Across the Lifespan](./03-adhd-across-the-lifespan.md)
 4. [Late Diagnosis: Why So Many Adults Are Only Finding Out Now](./04-late-diagnosis.md)
-5. [ADHD and the Brain](./05-adhd-and-the-brain.md)
 
 ## Daily Life
 6. [Time Blindness: Living Without an Internal Clock](./06-time-blindness.md)
@@ -31,13 +30,11 @@
 
 ## Intersections
 20. [ADHD + Autism: The Overlap Nobody Talks About Enough](./20-adhd-plus-autism.md)
-21. [ADHD and Anxiety: Chicken, Egg, or Both?](./21-adhd-and-anxiety.md)
 22. [Women and ADHD](./22-women-and-adhd.md)
 23. [ADHD and Addiction](./23-adhd-and-addiction.md)
 
 ## Practical Tools
 24. [External Scaffolding: Building Systems That Work For You](./24-external-scaffolding.md)
-25. [Medication Demystified](./25-medication-demystified.md)
 
 ---
 
